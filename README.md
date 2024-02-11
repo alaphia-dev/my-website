@@ -2,6 +2,7 @@
 
 This is a sample readme file.
 
-Make an edit on the example branch.
-
 Edit from the new update-readme branch.
+
+More tweaks on the update-reme branch performed 
+on local developer branch.
