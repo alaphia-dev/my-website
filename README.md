@@ -4,9 +4,13 @@ This is a sample readme file.
 
 Edit from the new update-readme branch.
 
-More tweaks on the update-reme branch performed 
+More tweaks on the update-reme branch performed
 on local developer branch.
 
-## Another edit on the update-readme branch.
+## Another edit on the update-readme branch
 
-Create a conflict!
+From the new feat-123 branch.
+
+## Purpose
+
+This is just a readme file.
