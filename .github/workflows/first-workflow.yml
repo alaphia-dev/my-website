@@ -1,0 +1,15 @@
+name: First Workflow
+# The on: parameter indicates the event trigger for the action
+# This event type indicates manual start
+on: workflow_dispatch
+
+# Jobs to run when the event fires
+jobs:
+  first-job:
+    # Set the environment the job will run on
+    runs-on: ubuntu-latest # Linux on a given hardware configuration
+    steps:
+      - name: Greeting
+        run: echo "Hello World!"
+      - name: Complete
+        run: echo "Done - bye"
